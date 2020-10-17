@@ -21,9 +21,9 @@ manipuler de la musique au
 
 Les exemples suivants seront pris comme point de départ:
 
-- `ports.py`: Afficher les ports MIDI disponibles.
-- `listen.py`: Créer une entrée MIDI et afficher les messages MIDI reçu.
-- `play.py`: Créer une sortie MIDI et jouer les notes entrées par l’utilisateur.
-- `read.py`: Creer une sortie MIDI et envoyer les messages lus depuis un fichier.
+- [ports.py](https://github.com/fred-wang/AECS-informatique/blob/master/python-midi/ports.py): Afficher les ports MIDI disponibles.
+- [listen.py](https://github.com/fred-wang/AECS-informatique/blob/master/python-midi/listen.py): Créer une entrée MIDI et afficher les messages MIDI reçu.
+- [play.py](https://github.com/fred-wang/AECS-informatique/blob/master/python-midi/play.py): Créer une sortie MIDI et jouer les notes entrées par l’utilisateur.
+- [read-and-play.py](https://github.com/fred-wang/AECS-informatique/blob/master/python-midi/read-and-play.py): Creer une sortie MIDI et envoyer les messages lus depuis un fichier.
 
 Ils pourront éventuellement être adaptés pour écrire ses propres mini-programmes intéragissant entre l'entrée au clavier MIDI, les fichiers MIDI ou la sortie audio.
