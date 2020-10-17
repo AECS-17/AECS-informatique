@@ -14,8 +14,8 @@ manipuler de la musique au
    - Éditeur de partition musicale.
 
 2. Introduction à la programmation
-  - Bases du langage Python: variables, boucle, interface entrée/sortie.
-  - Librairie [python-mito](https://mido.readthedocs.io/en/latest/).
+   - Bases du langage Python: variables, fonctions, boucles, interfaces entrée/sortie.
+   - Librairie [python-mito](https://mido.readthedocs.io/en/latest/).
 
 ## Exemples de programmes
 
