@@ -1,6 +1,6 @@
 # Programmation Python et musique MIDI
 
-Dans cette session, nous verrons un aperçu de concepts de programmation à l'aide du langage [Python](https://fr.wikipedia.org/wiki/Python_(langage)), utilisé notamment pour l'automatisation de tâches. Nous prendrons pour exemple une librairie de manipulation de musique au [format MIDI](https://fr.wikipedia.org/wiki/Musical_Instrument_Digital_Interface) afin d'analyser et de modifier de petits programmes interactifs utilisant un clavier de piano, des fichiers musicaux et la sortie audio.
+Dans cette session, nous verrons un aperçu de concepts de programmation à l'aide du langage [Python](https://fr.wikipedia.org/wiki/Python_(langage)), utilisé notamment pour l'automatisation de tâches. Nous prendrons pour exemple une librairie de manipulation de musique au [format MIDI](https://fr.wikipedia.org/wiki/Musical_Instrument_Digital_Interface) afin d'étudier et de modifier de petits programmes interactifs utilisant un clavier de piano, des fichiers musicaux et la sortie audio.
 
 ![Capture d’écran](https://raw.githubusercontent.com/AECS-17/AECS-informatique/master/python-midi/capture.png)
 
