@@ -23,9 +23,6 @@ les enfants de l’association.
 ## Apprentissage et création
 
 * [Jeu d’apprentissage du piano et solfège](./apprentissage-piano-solfege)
-
-Autres idées:
-
 * Jeu autour des outils d’accessibilité pour les déficients visuels (loupe, lecteur d’écran, ...)
 * Création d’un petit morceau de musique ou une chanson avec l’éditeur de partitions [MuseScore](https://fr.wikipedia.org/wiki/MuseScore).
 * Création d’image ([GIMP](https://fr.wikipedia.org/wiki/GIMP), [Inkscape](https://inkscape.org/), Création de bandes dessinées ?).
@@ -38,4 +35,4 @@ Autres idées:
 * [Ligne de commande](./ligne-de-commande)
 * [Programmation Python et musique MIDI](./python-midi)
 * [Programmation JavaScript et images SVG](./javascript-svg)
-* [Page web et « livre dont vous êtes le héros »](./web-livre-jeu)
+* [Page web et « livre-jeu »](./web-livre-jeu)

@@ -1,0 +1,77 @@
+/* Copyright 2020 Frédéric Wang. All rights reserved.
+   Use of this source code is governed by a BSD-style license that can be
+   found in the LICENSE file. */
+
+html {
+    background: black;
+}
+
+body {
+    text-align: justify;
+    hyphens: auto;
+    font-size: 1vw;
+    max-width: 30em;
+    margin-left: auto;
+    margin-right: auto;
+    background: white;
+    padding: 2em;
+}
+
+h1 {
+    font-size: 250%;
+    color: red;
+    border: 1px dotted red;
+    padding: 1em;
+    margin: 1em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 200%;
+    color: green;
+    width: 3em;
+    border: 1px solid green;
+    border-radius: .5em;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+
+#explication {
+    font-size: 150%;
+    color: blue;
+}
+
+.cadre {
+    border: 1px dashed black;
+}
+
+.cadre h3 {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+}
+
+td, th {
+    text-align: center;
+    padding: .5em;
+}
+
+button[onclick] {
+    width: 100%;
+    background: lightblue;
+    font-size: 200%;
+    font-weight: strong;
+    font-family: sans;
+}
+
+footer {
+    paddin-top: 1em;
+    border-top: 1px dotted black;
+    margin-top: 100vh;
+    text-align: center;
+}

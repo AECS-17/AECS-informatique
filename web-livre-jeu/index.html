@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Le secret de Maria Deraismes</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <script type="text/javascript" src="script.js"></script>
+  </head>
+  <body>
+    <section>
+      <h1>Le secret de Maria Deraismes</h1>
+
+      <div id="explication">
+        Ceci est un livre interactif dont l'histoire évolue en fonction de tes
+        décisions. Il se compose d'un certain nombre de sections avec chacune
+        un numéro. À la fin de chaque section, soit l'histoire s'achèvera, soit
+        tu pourras faire un choix parmi plusieurs propositions et aller à la
+        section suivante.
+        Pour commencer, <a href="#debut">va en 1</a>. Bonne chance !
+      </div>
+
+      <section>
+        <h2 id="debut">1</h2>
+        <p>
+          Tu joues au ballon avec des camarades dans le square des Épinettes.
+          Soudain, en voulant tirer trop fort tu envoies malencontreusement
+          la balle en dehors du terrain. Si tu sors la récupérer
+          <a href="#cherche-balle">va en 56</a>. Si tu demandes plutôt à un
+          camarade de le faire, <a href="#pas-gentil">va en 13</a>.
+        </p>
+      </section>
+
+      <section>
+        <h2>2</h2>
+      </section>
+
+      <section>
+        <h2>3</h2>
+      </section>
+
+      <section>
+        <h2>4</h2>
+      </section>
+
+      <section>
+        <h2>5</h2>
+      </section>
+
+      <section>
+        <h2>6</h2>
+      </section>
+
+      <section>
+        <h2 id="moqueries">7</h2>
+        <p>
+          Tes camarades s'esclaffent alors et ne cessent de se moquer de
+          toi quand le jeu reprend. Face à ces quolibets, tu décides de rentrer
+          chez tes parents. <a href="#rentrer-maison">Va en 95</a>.
+        </p>
+      </section>
+
+      <section>
+        <h2>8</h2>
+      </section>
+
+      <section>
+        <h2>9</h2>
+      </section>
+
+      <section>
+        <h2>10</h2>
+      </section>
+
+      <section>
+        <h2>11</h2>
+      </section>
+
+      <section>
+        <h2>12</h2>
+      </section>
+
+      <section>
+        <h2 id="pas-gentil">13</h2>
+        <p>
+          Ce n'est pas très gentil de ta part ! Tes camarades outrés par
+          ton comportement ne veulent plus jouer avec toi. Que cela te serve
+          de leçon !
+        </p>
+      </section>
+
+      <section>
+        <h2>...</h2>
+      </section>
+
+      <section>
+        <h2 id="cueillir-fleur">22</h2>
+
+        <p>En recevant ton présent, la statue de Maria se transforme
+          en une femme en chair et en os.
+          « Tu m'as délivrée du sortilège lancé par un sorcier
+          maléfique. Pour te remercier je t'offre ma recette secrète : »</p>
+
+        <section class="cadre">
+          <h3>Recette de jouvence</h3>
+
+          <table>
+            <tr>
+              <th>Ingrédient</th>
+              <th>Quantité</th>
+            </tr>
+            <tr>
+              <td>Bave de crapaud</td>
+              <td>50mL</td>
+            </tr>
+            <tr>
+              <td>Toiles d'araignée</td>
+              <td>2</td>
+            </tr>
+            <tr>
+              <td>Poivre</td>
+              <td>5g</td>
+            </tr>
+          </table>
+
+          <ol>
+            <li>Verser la bave de crapaud dans une mini-marmite.</li>
+            <li>Faire mijoter à feu doux.</li>
+            <li>Découper les toiles d'araignée en petits morceaux et les
+              ajouter au breuvage.</li>
+            <li>Bien mélanger le tout, très doucement.</li>
+            <li>Ajouter le poivre (pour rendre moins fade).</li>
+            <li>Servir à la louche et bien chaud !</li>
+          </ol>
+
+        </section>
+
+        <p>Avec ce délicieux secret en poche tu prends congé de tes camarades.
+          <a href="#rentrer-maison">Va te reposer en 95</a>.</p>
+      </section>
+
+      <section>
+        <h2>...</h2>
+      </section>
+
+      <section>
+        <h2 id="repondre-statue">27</h2>
+
+        <p>« Regarde » te chuchote Maria en lançant des yeux
+          un fluide magique en direction
+          d'une fleur rouge à quelques mètres d'ici.
+          Lentement, tu assistes à son éclosion :</p>
+        <video controls width="100%">
+          <source src="https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.webm"
+                  type="video/webm">
+        </video>
+        <p>Si tu te tournes vers tes camarades en leur criant
+          « Regardez comment je vise bien » et lances le ballon pour écraser la
+          plante, <a href="#lancer-ballon">va en 73</a>.
+          Si tu vas la cueillir pour l'offrir à Maria
+          <a href="#cueillir-fleur">va en 22</a>.
+        </p>
+      </section>
+
+      <section>
+        <h2 id="cherche-balle">56</h2>
+        <p>La balle a atterri au pied de la statue de Maria Deraismes. Tu
+          lèves la tête vers son visage qui te fixe de son regard
+          envoûtant. Ses lèvres s'animent soudain et murmurent « aide-moi ».
+        </p>
+        <ul>
+          <li>Si tu prends tes jambes
+            à ton coup, <a href="#rentrer-maison">va en 95</a>.</li>
+          <li>Si tu te précipites auprès
+            de tes camarades pour leur raconter
+            <a href="#moqueries">va en 7</a>.</li>
+          <li>Si tu réponds à la statue, <a href="#repondre-statue">va en 27</a>
+          </li>
+        </ul>
+        <img alt="Statue de Maria Deraismes" width="100%" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Barrias_Maria_Deraismes_Epinettes_Paris_17e.jpg"/>
+      </section>
+
+      <section>
+        <h2>...</h2>
+      </section>
+
+      <section>
+        <h2 id="lancer-ballon">73</h2>
+        <p>Clique sur le bouton suivant pour lancer la balle :</p>
+        <button id="bouton-lancer-ballon"
+                onclick="lancer()">Lancer la balle !</button>
+        <p id="lander-ballon-resultat"></p>
+      </section>
+
+      <section>
+        <h2>...</h2>
+      </section>
+
+      <section>
+        <h2 id="rentrer-maison">95</h2>
+        <p>
+          Te voilà à la maison. Assez des aventures rocambolesques, on est
+          bien mieux tranquille chez soi !
+        </p>
+      </section>
+
+      <section>
+        <h2>...</h2>
+      </section>
+
+      <footer>
+        <p>
+          <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Cette œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Licence Creative Commons Attribution 4.0 International</a>.
+        </p>
+      </footer>
+  </body>
+</html>
