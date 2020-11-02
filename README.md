@@ -29,5 +29,5 @@ et [œuvres libres](https://fr.wikipedia.org/wiki/%C5%92uvre_libre).
 
 * [Ligne de commande](./ligne-de-commande)
 * [Programmation Python et musique MIDI](./python-midi)
-* [Programmation JavaScript et image SVG](./javascript-svg)
+* [Programmation JavaScript et images SVG](./javascript-svg)
 * [Page web  et « livres dont vous êtes le héros »](./web-livre-jeu)

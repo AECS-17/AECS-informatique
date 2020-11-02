@@ -1,8 +1,6 @@
-# Programmation JavaScript et image SVG
+# Programmation JavaScript et images SVG
 
-Introduction à la programmation en utilisant le langage
-[JavaScript](https://fr.wikipedia.org/wiki/JavaScript) pour créer des
-images vectorielles au [format SVG](https://fr.wikipedia.org/wiki/Scalable_Vector_Graphics).
+Dans cette session, nous verrons un aperçu de concepts de programmation à l'aide du langage[JavaScript](https://fr.wikipedia.org/wiki/JavaScript), utilisé notamment pour les applications Web. Nous analyserons et modifierons des petits programmes pour générer des images vectorielles au [format SVG](https://fr.wikipedia.org/wiki/Scalable_Vector_Graphics) avec des figures géométriques simples.
 
 ![Capture d’écran](https://raw.githubusercontent.com/AECS-17/AECS-informatique/master/javascript-svg/capture.png)
 

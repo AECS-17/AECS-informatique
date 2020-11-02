@@ -3,7 +3,7 @@
 // found in the LICENSE file.
 
 module.exports = {
-    header: function(width, height, title, description, auteur) {
+    header: function(width, height, title, description, author) {
         return `<?xml version="1.0" encoding="UTF-8"?>
 <!-- This file was automatically generated. Do not edit! -->
 <svg xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -25,7 +25,7 @@ module.exports = {
            rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
         <dc:creator>
           <cc:Agent>
-            <dc:title>${auteur}</dc:title>
+            <dc:title>${author}</dc:title>
           </cc:Agent>
         </dc:creator>
       </cc:Work>

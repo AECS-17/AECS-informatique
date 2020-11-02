@@ -1,6 +1,6 @@
 # Ligne de commande
 
-Introduction à [l'utilisation de la ligne de commande](https://fr.wikipedia.org/wiki/Interface_en_ligne_de_commande) avec l'interpréteur [Bash](https://fr.wikipedia.org/wiki/Bourne-Again_shell).
+Dans cette session nous verrons comment [utiliser la ligne de commande](https://fr.wikipedia.org/wiki/Interface_en_ligne_de_commande) avec l'interpréteur [Bash](https://fr.wikipedia.org/wiki/Bourne-Again_shell). Dans culture populaire, elle est souvent l'interface de prédilection des [hackeurs dans les œuvres de fictions](https://fr.wikipedia.org/wiki/Hacker_(s%C3%A9curit%C3%A9_informatique)#Hackeurs_dans_les_%C5%93uvres_de_fictions). Ancêtre des interfaces graphiques, elle reste fondamentale pour les ingénieurs en informatique et une petite introduction sera fort utile pour les sessions ultérieures.
 
 ![Capture d’écran](https://raw.githubusercontent.com/AECS-17/AECS-informatique/master/ligne-de-commande/capture.png)
 
