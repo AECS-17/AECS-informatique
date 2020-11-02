@@ -22,11 +22,11 @@ images vectorielles au [format SVG](https://fr.wikipedia.org/wiki/Scalable_Vecto
 ## Plan
 
 0. Introduction.
-1. Exécuter [canevas.js](https://github.com/AECS/AECS-informatique/blob/master/javascript-svg/canevas.js) et vérifier l'image `canevas.svg`.
-2. Exécuter [concentriques.js](https://github.com/AECS/AECS-informatique/blob/master/javascript-svg/concentriques.js) et vérifier l'image `concentriques.svg`.
-3. Exécuter [aleatoire.js](https://github.com/AECS/AECS-informatique/blob/master/javascript-svg/aleatoire.js) et vérifier l'image `aleatoire.svg`. Recommencer
+1. Exécuter [canevas.js](https://github.com/AECS-17/AECS-informatique/blob/master/javascript-svg/canevas.js) et vérifier l'image `canevas.svg`.
+2. Exécuter [concentriques.js](https://github.com/AECS-17/AECS-informatique/blob/master/javascript-svg/concentriques.js) et vérifier l'image `concentriques.svg`.
+3. Exécuter [aleatoire.js](https://github.com/AECS-17/AECS-informatique/blob/master/javascript-svg/aleatoire.js) et vérifier l'image `aleatoire.svg`. Recommencer
    plusieurs fois.
-4. Exécuter [courbe.js](https://github.com/AECS/AECS-informatique/blob/master/javascript-svg/courbe.js). Corriger `utils.js` de façon a faire fonctionner ce
+4. Exécuter [courbe.js](https://github.com/AECS-17/AECS-informatique/blob/master/javascript-svg/courbe.js). Corriger `utils.js` de façon a faire fonctionner ce
    ce programme et vérifier `courbe.svg`.
 5. Selon le temps disponible, écrire ses propres mini-programmes et fonctions
    pour générer des images SVG.
