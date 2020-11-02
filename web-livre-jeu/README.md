@@ -10,13 +10,13 @@ Dans cette session, nous verrons comment créer des pages Web simples à l’aid
 * Syntaxe CSS pour le style d'une page: selecteurs, propriétés, valeurs.
 * Associer un programme JavaScript à une page: fonction, gestion d'évènement
   (clic), modifier la page de façon dynamique.
-                   
+
 ## Plan
 
 0. Introduction
-1. Ouvrir [https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/index.html](index.html) dans un navigateur et balayer brièvement la page.
+1. Ouvrir [index.html](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/index.html) dans un navigateur et lire brièvement la page.
 2. Ouvrir ce fichier dans un éditeur de texte et étudier la structure.
 3. Description des éléments HTML qui la compose.
-4. Description de la feuille de style [https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/style.css](style.css)
-5. Description du programme [https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/script.js](script.js)
+4. Description de la feuille de style [style.css](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/style.css)
+5. Description du programme [script.js](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/script.js)
 6. Modification de la page selon l'imagination des élèves.
