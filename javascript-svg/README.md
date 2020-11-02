@@ -1,6 +1,6 @@
 # Programmation JavaScript et images SVG
 
-Dans cette session, nous verrons un aperçu de concepts de programmation à l'aide du langage [JavaScript](https://fr.wikipedia.org/wiki/JavaScript), utilisé notamment pour les applications Web. Nous étudierons et modifierons des petits programmes pour générer des images vectorielles au [format SVG](https://fr.wikipedia.org/wiki/Scalable_Vector_Graphics) avec des figures géométriques simples.
+Dans cette session, nous verrons un aperçu de concepts de programmation à l’aide du langage [JavaScript](https://fr.wikipedia.org/wiki/JavaScript), utilisé notamment pour les applications Web. Nous étudierons et modifierons des petits programmes pour générer des images vectorielles au [format SVG](https://fr.wikipedia.org/wiki/Scalable_Vector_Graphics) avec des figures géométriques simples.
 
 ![Capture d’écran](https://raw.githubusercontent.com/AECS-17/AECS-informatique/master/javascript-svg/capture.png)
 
@@ -20,9 +20,9 @@ Dans cette session, nous verrons un aperçu de concepts de programmation à l'ai
 ## Plan
 
 0. Introduction.
-1. Exécuter [canevas.js](https://github.com/AECS-17/AECS-informatique/blob/master/javascript-svg/canevas.js) et vérifier l'image `canevas.svg`.
-2. Exécuter [concentriques.js](https://github.com/AECS-17/AECS-informatique/blob/master/javascript-svg/concentriques.js) et vérifier l'image `concentriques.svg`.
-3. Exécuter [aleatoire.js](https://github.com/AECS-17/AECS-informatique/blob/master/javascript-svg/aleatoire.js) et vérifier l'image `aleatoire.svg`. Recommencer
+1. Exécuter [canevas.js](https://github.com/AECS-17/AECS-informatique/blob/master/javascript-svg/canevas.js) et vérifier l’image `canevas.svg`.
+2. Exécuter [concentriques.js](https://github.com/AECS-17/AECS-informatique/blob/master/javascript-svg/concentriques.js) et vérifier l’image `concentriques.svg`.
+3. Exécuter [aleatoire.js](https://github.com/AECS-17/AECS-informatique/blob/master/javascript-svg/aleatoire.js) et vérifier l’image `aleatoire.svg`. Recommencer
    plusieurs fois.
 4. Exécuter [courbe.js](https://github.com/AECS-17/AECS-informatique/blob/master/javascript-svg/courbe.js). Corriger `utils.js` de façon a faire fonctionner ce
    ce programme et vérifier `courbe.svg`.
