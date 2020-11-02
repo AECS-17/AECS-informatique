@@ -32,6 +32,11 @@ Introduction à [l'utilisation de la ligne de commande](https://fr.wikipedia.org
 
 ## Plan
 
+0. Introduction. Exemple :
+   On dispose de 100 photos au format JPEG et on souhaite les redimensionner,
+   changer leur qualité et les compresser dans une archive ZIP afin de réduire
+   la taille des fichiers. Comment s'y prendre ? Que faire si à la fin les
+   fichiers sont encore trop volumineux pour les transférer (e.g. par courriel).
 1. `pwd`, `pwd --help`, `man pwd`.
 2. Créer/Supprimer/Renommer des fichiers et dossiers, vérifier avec `ls`.
 3. Utiliser `echo` et `cat` pour créer et afficher des fichiers avec plusieurs lignes (e.g. liste de personnes).
