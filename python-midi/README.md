@@ -5,7 +5,7 @@ Introduction à la programmation en utilisant le langage
 manipuler de la musique au
 [format MIDI](https://fr.wikipedia.org/wiki/Musical_Instrument_Digital_Interface).
 
-![Capture d’écran](https://raw.githubusercontent.com/fred-wang/AECS-informatique/master/python-midi/capture.png)
+![Capture d’écran](https://raw.githubusercontent.com/AECS-17/AECS-informatique/master/python-midi/capture.png)
 
 ## Objectifs pédagogiques
 
