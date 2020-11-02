@@ -6,6 +6,11 @@ Dans cette session, nous verrons comment créer des pages Web simples à l’aid
 
 ## Objectifs pédagogiques
 
+* Structure et élément HTML de base d'une page Web: sections, titres, liens, tableaux, listes, vidéos, images...
+* Syntaxe CSS pour le style d'une page: selecteurs, propriétés, valeurs.
+* Associer un programme JavaScript à une page: fonction, gestion d'évènement
+  (clic), modifier la page de façon dynamique.
+                   
 ## Plan
 
 0. Introduction
