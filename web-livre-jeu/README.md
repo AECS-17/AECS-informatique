@@ -10,6 +10,7 @@ Dans cette session, nous verrons comment créer des pages Web simples à l’aid
 * Syntaxe CSS pour le style d’une page: selecteurs, propriétés, valeurs.
 * Associer un programme JavaScript à une page: fonction, gestion d’évènement
   (clic), modifier la page de façon dynamique.
+* Structure d'arbre.
 
 ## Plan
 
