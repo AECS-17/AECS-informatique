@@ -35,5 +35,5 @@ les enfants de l’association.
 1. [Ligne de commande](./ligne-de-commande)
 2. [Programmation Python et musique MIDI](./python-midi)
 3. [Programmation JavaScript et images SVG](./javascript-svg)
-4. [Page web et « livre-jeu »](./web-livre-jeu)
+4. [Langages Web (HTML, CSS, JavaScript) et « livre-jeu »](./web-livre-jeu)
 5. [Programmation C et flux multimedia](./c-multimedia)
