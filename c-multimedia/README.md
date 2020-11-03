@@ -1,6 +1,6 @@
 # Programmation C et flux multimedia
 
-Dans cette session, nous verrons un aperçu de concepts de programmation à l’aide du langage [C](https://fr.wikipedia.org/wiki/C_(langage)) qui est (avec ses variantes [C++](https://fr.wikipedia.org/wiki/C%2B%2B), [Objective C](https://fr.wikipedia.org/wiki/Objective-C), [C#](https://fr.wikipedia.org/wiki/C_sharp)) très utilisé dans l'industrie. Nous prendrons pour exemple une [bibliothèque de manipulation de sons et d'images](https://fr.wikipedia.org/wiki/GStreamer) afin d’étudier et de modifier deux fonctions d'un mini-lecteur multimedia.
+Dans cette session, nous verrons un aperçu de concepts de programmation à l’aide du langage [C](https://fr.wikipedia.org/wiki/C_(langage)) qui est (avec ses variantes [C++](https://fr.wikipedia.org/wiki/C%2B%2B), [Objective C](https://fr.wikipedia.org/wiki/Objective-C), [C#](https://fr.wikipedia.org/wiki/C_sharp)) très utilisé dans l'industrie. Nous prendrons pour exemple une [bibliothèque de manipulation de sons et d'images](https://fr.wikipedia.org/wiki/GStreamer) afin d’étudier et de modifier des petites fonctions d'un module utilisé par un mini-lecteur multimedia.
 
 ![Capture d’écran](https://raw.githubusercontent.com/AECS-17/AECS-informatique/master/c-multimedia/capture.png)
 
