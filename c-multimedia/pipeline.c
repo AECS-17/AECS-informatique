@@ -1,10 +1,14 @@
 /* Use of this source code is governed by a BSD-style license that can be
-   found in the LICENSE.BSD file. */
+ * found in the LICENSE.BSD file. */
 
 #include <gst/gst.h>
 #include <math.h>
 #include "pipeline.h"
 
+/* Helper function to create an element with gst_element_factory_make, add it
+ * to the pipeline and return it. If it fails, it returns NULL and prints a
+ * message error.
+ */
 GstElement* add_element_to_pipeline(GstElement* pipeline,
                                     const gchar * factoryname,
                                     const gchar * name)
