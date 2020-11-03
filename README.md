@@ -32,8 +32,8 @@ les enfants de l’association.
 
 ## Développement logiciel
 
-* [Ligne de commande](./ligne-de-commande)
-* [Programmation Python et musique MIDI](./python-midi)
-* [Programmation JavaScript et images SVG](./javascript-svg)
-* [Page web et « livre-jeu »](./web-livre-jeu)
-* [Programmation C et flux multimedia](./c-multimedia)
+1. [Ligne de commande](./ligne-de-commande)
+2. [Programmation Python et musique MIDI](./python-midi)
+3. [Programmation JavaScript et images SVG](./javascript-svg)
+4. [Page web et « livre-jeu »](./web-livre-jeu)
+5. [Programmation C et flux multimedia](./c-multimedia)

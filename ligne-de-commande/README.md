@@ -22,7 +22,7 @@ Dans cette session nous verrons comment [utiliser la ligne de commande](https://
      `sed` (substitution simple)
      `sort`,
      `wc`
-   - Processus: `kill`, `ps`, `bg`, `fg`, `Ctrl+C`, `Ctrl+Z`, `&`
+* Commandes pour les processus: `kill`, `ps`, `bg`, `fg`, `Ctrl+C`, `Ctrl+Z`, `&`
 * Commandes pour le partage entre machines:
    - Téléchargement de page: `wget`
    - Session à distance: `scp`, `ssh`

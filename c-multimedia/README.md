@@ -11,6 +11,7 @@ Dans cette session, nous verrons un aperçu de concepts de programmation à l’
 * Execution de programme avec arguments.
 * Structure de graphe.
 * Édition d’une mini-bibliothèque C
+* Bibliothèque [GStreamer](https://fr.wikipedia.org/wiki/GStreamer).
 
 ## Déroulement possible de la session
 

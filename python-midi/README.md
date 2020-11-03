@@ -11,7 +11,7 @@ Dans cette session, nous verrons un aperçu de concepts de programmation à l’
 * Bases du langage Python
 * Variables, fonctions, boucles, interfaces entrée/sortie.
 * Structure de graphe.
-* Librairie [python-mito](https://mido.readthedocs.io/en/latest/).
+* Bibliothèque [python-mito](https://mido.readthedocs.io/en/latest/).
 
 ## Déroulement possible de la session
 
