@@ -36,4 +36,4 @@ les enfants de l’association.
 * [Programmation Python et musique MIDI](./python-midi)
 * [Programmation JavaScript et images SVG](./javascript-svg)
 * [Page web et « livre-jeu »](./web-livre-jeu)
-* [Programmation C et multimedia](./c-multimedia)
+* [Programmation C et flux multimedia](./c-multimedia)

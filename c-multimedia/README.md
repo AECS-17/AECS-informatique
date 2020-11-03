@@ -1,16 +1,18 @@
-# Programmation C et multimedia
+# Programmation C et flux multimedia
 
-Dans cette session, nous verrons un aperçu de concepts de programmation à l’aide du langage [C](https://fr.wikipedia.org/wiki/C_(langage)) qui est (avec ses variantes [C++](https://fr.wikipedia.org/wiki/C%2B%2B), [Objective C](https://fr.wikipedia.org/wiki/Objective-C), [C#](https://fr.wikipedia.org/wiki/C_sharp)) très utilisé dans l'industrie. Nous prendrons pour exemple une [librairie de manipulation de sons et d'images ](https://fr.wikipedia.org/wiki/GStreamer) afin d’étudier et de modifier des fonctions de gestion des flux audio et vidéo.
+Dans cette session, nous verrons un aperçu de concepts de programmation à l’aide du langage [C](https://fr.wikipedia.org/wiki/C_(langage)) qui est (avec ses variantes [C++](https://fr.wikipedia.org/wiki/C%2B%2B), [Objective C](https://fr.wikipedia.org/wiki/Objective-C), [C#](https://fr.wikipedia.org/wiki/C_sharp)) très utilisé dans l'industrie. Nous prendrons pour exemple une [bibliothèque de manipulation de sons et d'images](https://fr.wikipedia.org/wiki/GStreamer) afin d’étudier et de modifier deux fonctions d'un mini-lecteur multimedia.
 
 ![Capture d’écran](https://raw.githubusercontent.com/AECS-17/AECS-informatique/master/c-multimedia/capture.png)
 
 ## Objectifs pédagogiques
 
-* Syntax de base C: fonction, variable, structure, switch, etc
-* Compilation et execution de programme avec arguments.
+* Syntax de base C: fonction, variable, condition, structure, switch, etc
+* Compilation d’un programme.
+* Execution de programme avec arguments.
 * Structure de graphe.
-                   
-## Plan
+* Édition d’une mini-bibliothèque C
+
+## Déroulement possible de la session
 
 0. Introduction.
 1. Compilation avec `make` et execution du programme avec `./run-pipeline`.

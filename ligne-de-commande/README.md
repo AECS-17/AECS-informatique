@@ -6,9 +6,8 @@ Dans cette session nous verrons comment [utiliser la ligne de commande](https://
 
 ## Objectifs pédagogiques
 
-1. Commandes de base
-   - Utilisation de l’aide (`--help`, `man`)
-   - Fichiers et dossiers:
+* Utilisation de l’aide (`--help`, `man`)
+* Commandes manipuler des fichiers et dossiers:
      `cp`,
      `ls`,
      `mkdir`,
@@ -17,20 +16,19 @@ Dans cette session nous verrons comment [utiliser la ligne de commande](https://
      `rm`,
      `rmdir`,
      `touch`
-   - Fichier texte:
+* Commandes manipuler le contenu de fichiers textes:
      `cat`,
      `echo` (redirection `>`, `>>`),
      `sed` (substitution simple)
      `sort`,
      `wc`
    - Processus: `kill`, `ps`, `bg`, `fg`, `Ctrl+C`, `Ctrl+Z`, `&`
-
-2. Transfert de fichiers
+* Commandes pour le partage entre machines:
    - Téléchargement de page: `wget`
    - Session à distance: `scp`, `ssh`
    - Logiciel de gestion de versions: `git` (clone, log, status, diff, etc)
 
-## Plan
+## Déroulement possible de la session
 
 0. Introduction. Exemple :
    On dispose de 100 photos au format JPEG et on souhaite les redimensionner,

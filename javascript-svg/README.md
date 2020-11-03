@@ -6,18 +6,16 @@ Dans cette session, nous verrons un aperçu de concepts de programmation à l’
 
 ## Objectifs pédagogiques
 
-1. Concepts géométriques et graphiques
-   - Base du langage SVG
-   - Canevas et repère cartésien.
-   - Segment, cercle
-   - Couleurs, style de tracé et de remplissage.
+* Base du langage SVG
+* Canevas et repère cartésien.
+* Primitive graphique: Segment, cercle, ...
+* Couleurs, style de tracé et de remplissage.
+* Bases du langage JavaScript.
+* Utilisation de [NodeJS](https://nodejs.org/en/)
+* Variables, fonctions, boucles, interfaces entrée/sortie, hasard.
+* Chargement de module
 
-2. Introduction à la programmation
-  - Bases du langage JavaScript.
-  - Utilisation de [NodeJS](https://nodejs.org/en/)
-  - Variables, fonctions, boucles, interfaces entrée/sortie, hasard.
-
-## Plan
+## Déroulement possible de la session
 
 0. Introduction.
 1. Exécuter [canevas.js](https://github.com/AECS-17/AECS-informatique/blob/master/javascript-svg/canevas.js) et vérifier l’image `canevas.svg`.

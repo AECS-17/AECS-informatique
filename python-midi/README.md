@@ -1,21 +1,19 @@
 # Programmation Python et musique MIDI
 
-Dans cette session, nous verrons un aperçu de concepts de programmation à l’aide du langage [Python](https://fr.wikipedia.org/wiki/Python_(langage)), utilisé notamment pour l’automatisation de tâches. Nous prendrons pour exemple une librairie de manipulation de musique au [format MIDI](https://fr.wikipedia.org/wiki/Musical_Instrument_Digital_Interface) afin d’étudier et de modifier de petits programmes interactifs utilisant un clavier de piano, des fichiers musicaux et la sortie audio.
+Dans cette session, nous verrons un aperçu de concepts de programmation à l’aide du langage [Python](https://fr.wikipedia.org/wiki/Python_(langage)), utilisé notamment pour l’automatisation de tâches. Nous prendrons pour exemple une bibliothèque de manipulation de musique au [format MIDI](https://fr.wikipedia.org/wiki/Musical_Instrument_Digital_Interface) afin d’étudier et de modifier de petits programmes interactifs utilisant un clavier de piano, des fichiers musicaux et la sortie audio.
 
 ![Capture d’écran](https://raw.githubusercontent.com/AECS-17/AECS-informatique/master/python-midi/capture.png)
 
 ## Objectifs pédagogiques
 
-1. Aperçu de logiciels de musique assistée par ordinateur
-   - Clavier virtuel, connection MIDI, synthétiseur.
-   - Éditeur de partition musicale.
+* Clavier virtuel, connection MIDI, synthétiseur.
+* Éditeur de partition musicale.
+* Bases du langage Python
+* Variables, fonctions, boucles, interfaces entrée/sortie.
+* Structure de graphe.
+* Librairie [python-mito](https://mido.readthedocs.io/en/latest/).
 
-2. Introduction à la programmation
-   - Bases du langage Python
-   - Variables, fonctions, boucles, interfaces entrée/sortie.
-   - Librairie [python-mito](https://mido.readthedocs.io/en/latest/).
-
-## Plan
+## Déroulement possible de la session
 
 0. Introduction.
 1. Connection MIDI (clavier virtuel/physique, qjackctl, qsynth)
