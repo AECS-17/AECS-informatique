@@ -2,7 +2,6 @@
  * found in the LICENSE.BSD file. */
 
 #include <gst/gst.h>
-#include <math.h>
 #include "pipeline.h"
 
 /* Helper function to create an element with gst_element_factory_make, add it
