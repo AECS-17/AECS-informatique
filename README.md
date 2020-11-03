@@ -25,7 +25,7 @@ les enfants de l’association.
 * [Jeu d’apprentissage du piano et solfège](./apprentissage-piano-solfege)
 * Jeu autour des outils d’accessibilité pour les déficients visuels (loupe, lecteur d’écran, ...)
 * Création d’un petit morceau de musique ou une chanson avec l’éditeur de partitions [MuseScore](https://fr.wikipedia.org/wiki/MuseScore).
-* Création d’image ([GIMP](https://fr.wikipedia.org/wiki/GIMP), [Inkscape](https://inkscape.org/), Création de bandes dessinées ?).
+* Création d’image ([GIMP](https://fr.wikipedia.org/wiki/GIMP), [Inkscape](https://inkscape.org/), [Création de bandes dessinées ?](https://www.dailymotion.com/video/x56z00w)).
 * Enregistrement audio avec [audacity](https://audacity.fr/), montage vidéo avec [Pitivi](http://www.pitivi.org/) (jouer à enregistrer une émission radio? à filmer une improvisation de théâtre?).
 * Traitement de texte avec [LibreOffice](https://www.libreoffice.org/) et [Grammalecte](https://grammalecte.net/) (création d’un livre de contes ? recueil de poésies ? jeu autour de la correction orthographe/grammaire ?)
 * Utilisation d’outil de communication (email, vidéoconférence, échange épistolaire/culturel/linguistique avec d’autres enfants ?)
