@@ -15,8 +15,8 @@ Dans cette session, nous verrons comment créer des pages Web simples à l’aid
 ## Déroulement possible de la session
 
 0. Introduction
-1. Ouvrir [le-secret-de-maria-deraismes.html](https://github.com/AECS-17/AECS-informatique/blob/master/web-livre-jeu/le-secret-de-maria-deraismes.html) dans un navigateur et lire brièvement la page.
-2. Ouvrir ce fichier dans un éditeur de texte et étudier la structure.
+1. Ouvrir [le-secret-de-maria-deraismes.html](https://aecs-17.github.io/AECS-informatique/web-livre-jeu/le-secret-de-maria-deraismes.html) dans un navigateur et lire brièvement la page.
+2. Ouvrir ce fichier dans un éditeur de texte et étudier le [code source](https://github.com/AECS-17/AECS-informatique/blob/master/web-livre-jeu/le-secret-de-maria-deraismes.html).
 3. Description des éléments HTML qui la compose.
 4. Description de la feuille de style [style.css](https://github.com/AECS-17/AECS-informatique/blob/master/web-livre-jeu/style.css)
 5. Description du programme [script.js](https://github.com/AECS-17/AECS-informatique/blob/master/web-livre-jeu/script.js)
