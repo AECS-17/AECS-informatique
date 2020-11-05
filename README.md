@@ -32,8 +32,10 @@ les enfants de l’association.
 
 ## Développement logiciel
 
-1. [Ligne de commande](./ligne-de-commande)
+1. [Langage Bash et ligne de commande](./ligne-de-commande)
 2. [Programmation Python et musique MIDI](./python-midi)
 3. [Programmation JavaScript et images SVG](./javascript-svg)
 4. [Langages Web (HTML, CSS, JavaScript) et « livre-jeu »](./web-livre-jeu)
 5. [Programmation C et flux multimedia](./c-multimedia)
+6. Programmation C++ et interface graphique
+7. Programmation Java et application mobile
