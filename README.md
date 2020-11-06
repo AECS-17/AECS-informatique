@@ -37,5 +37,5 @@ les enfants de l’association.
 3. [Programmation JavaScript et images SVG](./javascript-svg)
 4. [Langages Web (HTML, CSS, JavaScript) et « livre-jeu »](./web-livre-jeu)
 5. [Programmation C et flux multimedia](./c-multimedia)
-6. Programmation C++ et interface graphique
+6. [Programmation C++ et interface graphique](./cpp-interface-graphique)
 7. Programmation Java et application mobile

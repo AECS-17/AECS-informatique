@@ -6,7 +6,7 @@ Dans cette session, nous verrons un aperçu de concepts de programmation à l’
 
 ## Objectifs pédagogiques
 
-* Syntax de base C: fonction, variable, condition, structure, switch, etc
+* Syntaxe de base C: fonction, variable, condition, structure, switch, etc
 * Compilation d’un programme.
 * Execution de programme avec arguments.
 * Structure de graphe.
