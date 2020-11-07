@@ -37,7 +37,10 @@ Frame::Frame()
   SetStatusText("Bienvenue !");
 
   // Create WebView
+  wxBoxSizer* topsizer = new wxBoxSizer(wxVERTICAL);
   m_browser = wxWebView::New(this, wxID_ANY, default_url);
+  topsizer->Add(m_browser, wxSizerFlags().Expand().Proportion(1));
+  SetSizer(topsizer);
 
   // Set the windows size.
   SetSize(wxSize(800, 600));

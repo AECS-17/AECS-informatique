@@ -29,3 +29,10 @@ Dans cette session, nous verrons un aperçu de concepts de programmation à l’
    [ASCII art](https://gstreamer.freedesktop.org/documentation/aasink/aatv.html?gi-language=c#aatv),
    [rotate](https://gstreamer.freedesktop.org/documentation/geometrictransform/rotate.html?gi-language=c#rotate), etc
 8. Selon le temps disponible, ajouter plus de filtres et de commandes.
+
+## Installation
+
+L’environnement suivant sera mis à disposition pour cette session:
+
+* Linux Mint >= 20
+* Paquets `make gcc libgstreamer1.0-dev`

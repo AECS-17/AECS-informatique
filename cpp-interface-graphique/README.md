@@ -20,3 +20,10 @@ Dans cette session, nous allons créer une interface graphique pour une applicat
 5. Boîte de dialogues, autres widgets, traduction... selon le temps disponible.
 
 À faire: trouver plus idées à partir de [la documentation wxWidgets](https://www.wxwidgets.org/docs/)...
+
+## Installation
+
+L’environnement suivant sera mis à disposition pour cette session:
+
+* Linux Mint >= 20
+* Paquets `cmake gcc wx-common libwxbase3.0-dev libwxgtk3.0-gtk3-dev libwxgtk-webview3.0-gtk3-dev`

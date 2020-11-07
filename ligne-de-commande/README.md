@@ -44,3 +44,10 @@ Dans cette session nous verrons comment [utiliser la ligne de commande](https://
 7. Envoyer la page sur une autre machine et se connecter à cette machine (`scp`, `ssh`).
 8. Cloner ce dépôt `git https://github.com/AECS-17/AECS-informatique.git` et
    présenter les commandes et concepts de base selon le temps disponible.
+
+## Installation
+
+L’environnement suivant sera mis à disposition pour cette session:
+
+* Linux Mint >= 20
+* Paquets `bash coreutils procps sed wget openssh-client git`

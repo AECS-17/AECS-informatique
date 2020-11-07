@@ -26,3 +26,10 @@ Dans cette session, nous verrons un aperçu de concepts de programmation à l’
    ce programme et vérifier `courbe.svg`.
 5. Selon le temps disponible, écrire ses propres mini-programmes et fonctions
    pour générer des images SVG.
+
+## Installation
+
+L’environnement suivant sera mis à disposition pour cette session:
+
+* Linux Mint >= 20
+* Paquet `nodejs`

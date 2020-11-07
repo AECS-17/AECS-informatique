@@ -22,3 +22,12 @@ Dans cette session, nous verrons un aperçu de concepts de programmation à l’
 4. [play.py](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/play.py): Créer une sortie MIDI et jouer les notes entrées par l’utilisateur.
 5. [read-and-play.py](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/read-and-play.py): Creer une sortie MIDI et envoyer les messages lus depuis un fichier édité avec [MuseScore](https://fr.wikipedia.org/wiki/MuseScore).
 6. Selon le temps disponible, écrire ses propres mini-programmes intéragissant entre l’entrée au clavier MIDI, les fichiers MIDI ou la sortie audio.
+
+## Installation
+
+L’environnement suivant sera mis à disposition pour cette session:
+
+* Un clavier MIDI
+* Linux Mint >= 20
+* Paquets `qjackctl alsaplayer-jack vmpk qsynth musescore`. Accepter l'activation du [temps réel](https://fr.wikipedia.org/wiki/Syst%C3%A8me_d'exploitation_temps_r%C3%A9el) (fichier `/etc/security/limits.d/audio.conf` présent) et ajouter l'utilisateur au groupe `audio`).
+* Paquets `python3 python3-mido python3-rtmidi librtmidi5`
