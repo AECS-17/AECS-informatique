@@ -32,6 +32,10 @@ les enfants de l’association.
 
 ## Développement logiciel
 
+### Tour d’horizon
+
+Dans ces sessions, nous donnerons un premier aperçu de différent langages et technologies. L’idée est d’étudier et de modifier de mini programmes pour se familariser avec la syntaxe et les concepts.
+
 1. [Langage Bash et ligne de commande](./ligne-de-commande)
 2. [Programmation Python et musique MIDI](./python-midi)
 3. [Programmation JavaScript et images SVG](./javascript-svg)
@@ -39,3 +43,4 @@ les enfants de l’association.
 5. [Programmation C et flux multimedia](./c-multimedia)
 6. [Programmation C++ et interface graphique](./cpp-interface-graphique)
 7. [Programmation Java et application mobile](./java-application-mobile)
+8. Programmation Rust?
