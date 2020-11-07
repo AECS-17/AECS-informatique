@@ -13,8 +13,10 @@ Dans cette session, nous verrons un aperçu de concepts de programmation à l’
 ## Déroulement possible de la session
 
 0. Introduction.
-1. Compiler [hello world](https://gitlab.com/Matrixcoffee/hello-world-debian-android/), l'installer et l'executer dans Anbox
-2. Modifier le pour ajouter des widgets, actions etc
+1. Compiler `AECS-android-app`, l'installer et l'executer dans Anbox
+2. Étudier [src/aecs/source/aecsandroidapp/AECSAndroidApp.java](https://github.com/AECS-17/AECS-informatique/blob/master/java-application-mobile/src/aecs/source/aecsandroidapp/AECSAndroidApp.java). Modifier le pour compter combien de fois le bouton a été cliqué et mettre a jour le texte.
+3. Étudier [res/layout/activity_main.xml](https://github.com/AECS-17/AECS-informatique/blob/master/java-application-mobile/res/layout/activity_main.xml) et ajouter d'autres boutons, textes. Ajouter d'autres actions.
+4. Selon le temps disponible, plus de widgets, actions etc
 
 🚧 Trouver plus idées à partir de [la documentation Android](https://developer.android.com/docs/)...
 

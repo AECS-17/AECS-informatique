@@ -20,7 +20,7 @@ private:
 };
 
 Frame::Frame()
-  : wxFrame(NULL, wxID_ANY, "Mon Application") {
+  : wxFrame(NULL, wxID_ANY, "Application AECS") {
   // Create File menu.
   wxMenu* menuFile = new wxMenu;
   menuFile->AppendSeparator();
@@ -50,14 +50,14 @@ void Frame::OnExit(wxCommandEvent& event) {
   Close(true);
 }
 
-class Application : public wxApp {
+class ApplicationAECS : public wxApp {
 public:
   virtual bool OnInit();
 };
 
-wxIMPLEMENT_APP(Application);
+wxIMPLEMENT_APP(ApplicationAECS);
 
-bool Application::OnInit() {
+bool ApplicationAECS::OnInit() {
   Frame *frame = new Frame;
   frame->Show(true);
   return true;

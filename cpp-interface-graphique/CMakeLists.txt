@@ -2,7 +2,7 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
-project(interfaceGraphique)
+project(applicationAECS)
 cmake_minimum_required(VERSION 2.8)
 aux_source_directory(. SRC_LIST)
 
