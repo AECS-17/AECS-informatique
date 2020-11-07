@@ -17,9 +17,14 @@ Dans cette session, nous allons créer une interface graphique pour une applicat
 2. Étudier [main.cc](https://github.com/AECS-17/AECS-informatique/blob/master/cpp-interface-graphique/main.cc)
 3. Ajouter des éléments dans le menu.
 4. Implémenter des méthodes répondant à l’interaction de l’utilisateur.
-5. Boîte de dialogues, autres widgets, traduction... selon le temps disponible.
-
-🚧 Trouver plus idées à partir de [la documentation wxWidgets](https://www.wxwidgets.org/docs/)...
+5. Ajouter d'autres éléments et actions selon le temps disponible (voir [la documentation wxWidgets](https://www.wxwidgets.org/docs/)):
+   - [wxTextCtrl](https://docs.wxwidgets.org/3.0/classwx_text_ctrl.html)
+   - [wxMessageDialog](https://docs.wxwidgets.org/3.0/classwx_message_dialog.html)
+   - [wxButton](https://docs.wxwidgets.org/3.0/classwx_button.html)
+   - [wxCheckBox](https://docs.wxwidgets.org/3.0/classwx_check_box.html)
+   - [wxChoice](https://docs.wxwidgets.org/3.0/classwx_choice.html)
+   - [wxToolBar](https://docs.wxwidgets.org/3.0/classwx_tool_bar.html)
+   - ...
 
 ## Installation
 
