@@ -23,5 +23,5 @@ Dans cette session, nous verrons un aperçu de concepts de programmation à l’
 L’environnement suivant sera mis à disposition pour cette session:
 
 * Linux Mint >= 20
-* Paquets `make android-sdk android-sdk-platform-23`
-* [Anbox](https://anbox.io/): paquets `anbox`, module du noyau `ashmem` et `binder` activé, [image Android](https://build.anbox.io/android-images/) installée. Voir les [instructions de Debian](https://salsa.debian.org/zhsj/anbox/blob/master/debian/README.Debian).
+* [AndroidTools](https://wiki.debian.org/AndroidTools) `make adb android-sdk android-sdk-platform-23`.
+* [Anbox](https://anbox.io/): paquets `anbox`, modules du noyau `ashmem` et `binder` activés, [image Android](https://build.anbox.io/android-images/) installée. Voir les [instructions de Debian](https://salsa.debian.org/zhsj/anbox/blob/master/debian/README.Debian).
