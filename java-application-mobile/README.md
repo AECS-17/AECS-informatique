@@ -13,10 +13,10 @@ Dans cette session, nous verrons un aperçu de concepts de programmation à l’
 ## Déroulement possible de la session
 
 0. Introduction.
-1. Build [hello world](https://gitlab.com/Matrixcoffee/hello-world-debian-android/) app, install and run it in Anbox
-2. Modify it to add new graphical element, actions, etc
+1. Compiler [hello world](https://gitlab.com/Matrixcoffee/hello-world-debian-android/), l'installer et l'executer dans Anbox
+2. Modifier le pour ajouter des widgets, actions etc
 
-À faire: trouver plus idées à partir de [la documentation Android](https://developer.android.com/docs/)...
+🚧 Trouver plus idées à partir de [la documentation Android](https://developer.android.com/docs/)...
 
 ## Installation
 

@@ -15,11 +15,11 @@ Dans cette session, nous allons créer une interface graphique pour une applicat
 0. Introduction.
 1. Compilation avec `cmake` et execution du programme.
 2. Étudier [main.cc](https://github.com/AECS-17/AECS-informatique/blob/master/cpp-interface-graphique/main.cc)
-3. Ajout d’éléments dans le menu.
+3. Ajouter des éléments dans le menu.
 4. Implémenter des méthodes répondant à l’interaction de l’utilisateur.
 5. Boîte de dialogues, autres widgets, traduction... selon le temps disponible.
 
-À faire: trouver plus idées à partir de [la documentation wxWidgets](https://www.wxwidgets.org/docs/)...
+🚧 Trouver plus idées à partir de [la documentation wxWidgets](https://www.wxwidgets.org/docs/)...
 
 ## Installation
 

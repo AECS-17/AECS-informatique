@@ -18,12 +18,10 @@ Dans cette session, nous verrons un aperçu de concepts de programmation à l’
 ## Déroulement possible de la session
 
 0. Introduction.
-1. Exécuter [canevas.js](https://github.com/AECS-17/AECS-informatique/blob/master/javascript-svg/canevas.js) et vérifier l’image `canevas.svg`.
-2. Exécuter [concentriques.js](https://github.com/AECS-17/AECS-informatique/blob/master/javascript-svg/concentriques.js) et vérifier l’image `concentriques.svg`.
-3. Exécuter [aleatoire.js](https://github.com/AECS-17/AECS-informatique/blob/master/javascript-svg/aleatoire.js) et vérifier l’image `aleatoire.svg`. Recommencer
-   plusieurs fois.
-4. Exécuter [courbe.js](https://github.com/AECS-17/AECS-informatique/blob/master/javascript-svg/courbe.js). Corriger `utils.js` de façon a faire fonctionner ce
-   ce programme et vérifier `courbe.svg`.
+1. Étudier et exécuter [canevas.js](https://github.com/AECS-17/AECS-informatique/blob/master/javascript-svg/canevas.js) et vérifier l’image `canevas.svg`.
+2. Étudier et exécuter [concentriques.js](https://github.com/AECS-17/AECS-informatique/blob/master/javascript-svg/concentriques.js) et vérifier l’image `concentriques.svg`.
+3. Étudier et exécuter [aleatoire.js](https://github.com/AECS-17/AECS-informatique/blob/master/javascript-svg/aleatoire.js) et vérifier l’image `aleatoire.svg`. Recommencer plusieurs fois.
+4. Étudier et exécuter [courbe.js](https://github.com/AECS-17/AECS-informatique/blob/master/javascript-svg/courbe.js). Corriger `utils.js` de façon a faire fonctionner ce programme et vérifier `courbe.svg`.
 5. Selon le temps disponible, écrire ses propres mini-programmes et fonctions
    pour générer des images SVG.
 

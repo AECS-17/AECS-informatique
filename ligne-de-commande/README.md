@@ -35,8 +35,8 @@ Dans cette session nous verrons comment [utiliser la ligne de commande](https://
    changer leur qualité et les compresser dans une archive ZIP afin de réduire
    la taille des fichiers. Comment s’y prendre ? Que faire si à la fin les
    fichiers sont encore trop volumineux pour les transférer (e.g. par courriel).
-1. `pwd`, `pwd --help`, `man pwd`.
-2. Créer/Supprimer/Renommer des fichiers et dossiers, vérifier avec `ls`.
+1. Tester les commandes `pwd`, `pwd --help`, `man pwd`.
+2. Utiliser les commandes pour créer/Supprimer/Renommer des fichiers et dossiers, vérifier avec `ls`.
 3. Utiliser `echo` et `cat` pour créer et afficher des fichiers avec plusieurs lignes (e.g. liste de personnes).
 4. Utiliser `sort`, `uniq`, `wc`, `sed` sur ces fichiers.
 5. Illustrer les commandes de processus avec le programme `gedit`.

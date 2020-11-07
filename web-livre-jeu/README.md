@@ -20,7 +20,7 @@ Dans cette session, nous verrons comment créer des pages Web simples à l’aid
 3. Description des éléments HTML qui la compose.
 4. Description de la feuille de style [style.css](https://github.com/AECS-17/AECS-informatique/blob/master/web-livre-jeu/style.css)
 5. Description du programme [script.js](https://github.com/AECS-17/AECS-informatique/blob/master/web-livre-jeu/script.js)
-6. Modification de la page selon l’imagination des élèves.
+6. Modification de la page selon l’imagination des élèves et le temps disponible.
 
 ## Installation
 

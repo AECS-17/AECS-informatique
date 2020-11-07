@@ -16,12 +16,13 @@ Dans cette session, nous verrons un aperçu de concepts de programmation à l’
 ## Déroulement possible de la session
 
 0. Introduction.
-1. Connection MIDI (clavier virtuel/physique, qjackctl, qsynth)
-2. [ports.py](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/ports.py): Afficher les ports MIDI disponibles.
-3. [listen.py](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/listen.py): Créer une entrée MIDI et afficher les messages MIDI reçu.
-4. [play.py](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/play.py): Créer une sortie MIDI et jouer les notes entrées par l’utilisateur.
-5. [read-and-play.py](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/read-and-play.py): Creer une sortie MIDI et envoyer les messages lus depuis un fichier édité avec [MuseScore](https://fr.wikipedia.org/wiki/MuseScore).
-6. Selon le temps disponible, écrire ses propres mini-programmes intéragissant entre l’entrée au clavier MIDI, les fichiers MIDI ou la sortie audio.
+1. Mettre en place des connections MIDI (clavier virtuel/physique, qjackctl, qsynth) et vérifier que l'on peut jouer au clavier.
+2. Étudier et exécuter [ports.py](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/ports.py): Afficher les ports MIDI disponibles et comparer avec qjackctl.
+3. Étudier et exécuter [listen.py](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/listen.py). Connecter une entrée MIDI et vérifier les messages reçus.
+4. Étudier et exécuter [play.py](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/play.py). Connecter une sortie MIDI pour jouer les notes entrées par l’utilisateur.
+5. Utilisez [MuseScore](https://fr.wikipedia.org/wiki/MuseScore) pour créer un fichier MIDI (e.g. à partir de `A-E-C-Si.musicxml`).
+6. Étudier et exécuter [read-and-play.py](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/read-and-play.py). Faire en sorte qu'il lise et joue la musique.
+7. Selon le temps disponible, écrire ses propres mini-programmes intéragissant entre l’entrée au clavier MIDI, les fichiers MIDI ou la sortie audio.
 
 ## Installation
 
