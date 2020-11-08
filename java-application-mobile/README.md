@@ -13,10 +13,15 @@ Dans cette session, nous verrons un aperçu de concepts de programmation à l’
 ## Déroulement possible de la session
 
 0. Introduction.
-1. Compiler `AECS-android-app`, l'installer et l'executer dans Anbox
-2. Étudier [src/aecs/source/aecsandroidapp/AECSAndroidApp.java](https://github.com/AECS-17/AECS-informatique/blob/master/java-application-mobile/AECS-android-app/src/aecs/source/aecsandroidapp/AECSAndroidApp.java). Modifier le pour compter combien de fois le bouton a été cliqué et mettre a jour le texte.
-3. Étudier [res/layout/activity_main.xml](https://github.com/AECS-17/AECS-informatique/blob/master/java-application-mobile/AECS-android-app/res/layout/activity_main.xml) et ajouter d'autres boutons, textes. Ajouter d'autres actions.
-4. Selon le temps disponible, ajouter plus d'éléments graphiques et actions (voir [la documentation Android](https://developer.android.com/docs/)):
+1. Dans un terminal, lancer le gestionnaire de session Anbox avec la commande
+   `env ANBOX_LOG_LEVEL=debug anbox session-manager` (ne pas quitter).
+   Dans un autre terminal, lancer le gestionnaire d'application Anbox avec la
+   commande:
+   `env ANBOX_LOG_LEVEL=debug anbox launch --package=org.anbox.appmgr --component=org.anbox.appmgr.AppViewActivity` et vérifier quelques apps.
+2. Compiler `AECS-android-app`, l'installer et l'executer dans Anbox.
+3. Étudier [src/aecs/source/aecsandroidapp/AECSAndroidApp.java](https://github.com/AECS-17/AECS-informatique/blob/master/java-application-mobile/AECS-android-app/src/aecs/source/aecsandroidapp/AECSAndroidApp.java). Modifier le pour compter combien de fois le bouton a été cliqué et mettre a jour le texte.
+4. Étudier [res/layout/activity_main.xml](https://github.com/AECS-17/AECS-informatique/blob/master/java-application-mobile/AECS-android-app/res/layout/activity_main.xml) et ajouter d'autres boutons, textes. Ajouter d'autres actions.
+5. Selon le temps disponible, ajouter plus d'éléments graphiques et actions (voir [la documentation Android](https://developer.android.com/docs/)):
    - [TextView](https://developer.android.com/reference/android/widget/TextView)
    - [Button](https://developer.android.com/reference/android/widget/Button)
    - [CheckBox](https://developer.android.com/reference/android/widget/CheckBox)
@@ -32,4 +37,4 @@ L’environnement suivant sera mis à disposition pour cette session:
 
 * Linux Mint >= 20
 * [AndroidTools](https://wiki.debian.org/AndroidTools) `make adb android-sdk android-sdk-platform-23`.
-* [Anbox](https://anbox.io/): paquets `anbox`, modules du noyau `ashmem` et `binder` activés, [image Android](https://build.anbox.io/android-images/) installée. Voir les [instructions de Debian](https://salsa.debian.org/zhsj/anbox/blob/master/debian/README.Debian).
+* [Anbox](https://anbox.io/): paquets `anbox`, [modules du noyau `ashmem` et `binder` activés](https://github.com/anbox/anbox-modules), [image Android](https://build.anbox.io/android-images/) installée. Voir les [instructions de Debian](https://salsa.debian.org/zhsj/anbox/blob/master/debian/README.Debian).
