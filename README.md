@@ -15,7 +15,6 @@ ateliers privilégieront
 [standards ouverts](https://fr.wikipedia.org/wiki/Norme_et_standard_techniques#Standard)
 et [œuvres libres](https://fr.wikipedia.org/wiki/%C5%92uvre_libre).
 
-
 Note : cette page est en cours de construction. Elle sera mise à jour
 au fur et à mesure selon les idées proposées par les bénévoles encadrants et
 les enfants de l’association.
@@ -23,7 +22,7 @@ les enfants de l’association.
 ## Apprentissage et création
 
 * [Jeu d’apprentissage du piano et solfège](./apprentissage-piano-solfege)
-* [Création d’une bande dessinée](https://bdnf.bnf.fr/index.html)
+* [Création de bandes dessinées](./creation-bandes-dessinees)
 * ...
 
 ## Développement logiciel
