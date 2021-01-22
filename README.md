@@ -29,7 +29,7 @@ les enfants de l’association.
 
 ### Tour d’horizon
 
-Au cours de ces sessions, nous donnerons un premier aperçu de différent langages et technologies. L’idée est d’étudier et de modifier de mini programmes pour se familariser avec la syntaxe et les concepts.
+Au cours de ces sessions, nous donnerons un premier aperçu de différent [langages de programmation de haut niveau](https://fr.wikipedia.org/wiki/Langage_de_programmation_de_haut_niveau). L’idée est d’étudier et de modifier de mini programmes pour se familariser avec divers syntaxes, concepts et technologies.
 
 1. [Langage Bash et ligne de commande](./ligne-de-commande)
 2. [Programmation Python et musique MIDI](./python-midi)
@@ -38,4 +38,8 @@ Au cours de ces sessions, nous donnerons un premier aperçu de différent langag
 5. [Programmation C et flux multimedia](./c-multimedia)
 6. [Programmation C++ et interface graphique](./cpp-interface-graphique)
 7. [Programmation Java et application mobile](./java-application-mobile)
-8. Programmation Rust?
+8. [Programmation Rust et parallélisme](./rust-parallelisme)
+
+### ...
+
+...
