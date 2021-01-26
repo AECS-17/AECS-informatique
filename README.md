@@ -31,7 +31,7 @@ les enfants de l’association.
 
 Au cours de ces sessions, nous donnerons un premier aperçu de différent [langages de programmation de haut niveau](https://fr.wikipedia.org/wiki/Langage_de_programmation_de_haut_niveau). L’idée est d’étudier et de modifier de mini programmes pour se familariser avec divers syntaxes, concepts et technologies.
 
-1. [Langage Bash et ligne de commande](./ligne-de-commande)
+1. [Langage Bash et ligne de commande](./ligne-de-commande) - [Séance du 6 février 2020](https://aecs-17.github.io/presentations/2021-01-30-atelier-informatique/index.html)
 2. [Programmation Python et musique MIDI](./python-midi)
 3. [Programmation JavaScript et images SVG](./javascript-svg)
 4. [Langages Web (HTML, CSS, JavaScript) et « livre-jeu »](./web-livre-jeu)
