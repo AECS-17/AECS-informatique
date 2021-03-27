@@ -30,6 +30,8 @@ Dans cette session nous verrons comment [utiliser la ligne de commande](https://
 
 ## Déroulement possible de la session
 
+On pourra utiliser une console virtuelle pour se forcer à n'utiliser que la ligne de commande.
+
 0. Introduction. Exemple :
    On dispose de 100 photos au format JPEG et on souhaite les redimensionner,
    changer leur qualité et les compresser dans une archive ZIP afin de réduire
@@ -39,7 +41,7 @@ Dans cette session nous verrons comment [utiliser la ligne de commande](https://
 2. Utiliser les commandes pour créer/Supprimer/Renommer des fichiers et dossiers, vérifier avec `ls`.
 3. Utiliser `echo` et `cat` pour créer et afficher des fichiers avec plusieurs lignes (e.g. liste de personnes).
 4. Utiliser `sort`, `uniq`, `wc`, `sed` sur ces fichiers.
-5. Illustrer les commandes de processus avec le programme `gedit`.
+5. Illustrer les commandes de processus avec le programme [count.sh](https://github.com/AECS-17/AECS-informatique/blob/master/ligne-de-commande/count.sh)`.
 6. Télécharger une page web avec `wget`.
 7. Envoyer la page sur une autre machine et se connecter à cette machine (`scp`, `ssh`).
 8. Cloner ce dépôt `git https://github.com/AECS-17/AECS-informatique.git` et
