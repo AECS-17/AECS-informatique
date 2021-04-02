@@ -48,3 +48,10 @@ println!("Output: {:?}", vector_mutex.lock().unwrap());
 ```
 11. Adapter le calcul de longueur des morceaux de courbe en parallèle pour obtenir la longueur totale de la courbe. Comparer avec le temps d’exécution antérieur.
 12. Comparer les temps d’exécution avec des valeurs différentes de `POINTS_PER_BEZIER_SEGMENT`.
+
+## Installation
+
+L’environnement suivant sera mis à disposition pour cette session:
+
+* Linux Mint >= 20
+* `cargo`
