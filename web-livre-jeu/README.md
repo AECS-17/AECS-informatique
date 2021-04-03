@@ -26,5 +26,5 @@ Dans cette session, nous verrons comment créer des pages Web simples à l’aid
 
 L’environnement suivant sera mis à disposition pour cette session:
 
-* Linux Mint >= 20
+* Linux Mint >= 21
 * Navigateur Firefox

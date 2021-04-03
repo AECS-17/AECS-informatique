@@ -53,5 +53,5 @@ println!("Output: {:?}", vector_mutex.lock().unwrap());
 
 L’environnement suivant sera mis à disposition pour cette session:
 
-* Linux Mint >= 20
-* `cargo`
+* Linux Mint >= 21
+* Paquet `cargo`

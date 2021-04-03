@@ -30,5 +30,5 @@ Dans cette session, nous allons créer une interface graphique pour une applicat
 
 L’environnement suivant sera mis à disposition pour cette session:
 
-* Linux Mint >= 20
+* Linux Mint >= 21
 * Paquets `cmake g++ wx-common libwxbase3.0-dev libwxgtk3.0-gtk3-dev libwxgtk-webview3.0-gtk3-dev`

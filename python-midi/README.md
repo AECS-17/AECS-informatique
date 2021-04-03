@@ -29,7 +29,7 @@ Dans cette session, nous verrons un aperçu de concepts de programmation à l’
 L’environnement suivant sera mis à disposition pour cette session:
 
 * Un clavier MIDI
-* Linux Mint >= 20
-* Paquets `qjackctl alsaplayer-jack vmpk qsynth musescore`. Accepter l'activation du [temps réel](https://fr.wikipedia.org/wiki/Syst%C3%A8me_d'exploitation_temps_r%C3%A9el) (fichier `/etc/security/limits.d/audio.conf` présent) et ajouter l'utilisateur au groupe `audio`).
-* Paquets `python3 python3-mido python3-rtmidi librtmidi5`
-* Dans VMPK, utiliser ALSA dans les paramètres MIDI de VMPK. Dans QSynth, utiliser alsa_seq en MIDI, jack en Audio et importer les banques de son.
+* Linux Mint >= 21
+* Paquets `qjackctl alsaplayer-jack vmpk qsynth musescore3`. Accepter l'activation du [temps réel](https://fr.wikipedia.org/wiki/Syst%C3%A8me_d'exploitation_temps_r%C3%A9el) (fichier `/etc/security/limits.d/audio.conf` présent) et ajouter l'utilisateur au groupe `audio`). Dans VMPK, utiliser ALSA dans les paramètres MIDI de VMPK. Dans QSynth, utiliser alsa_seq en MIDI, jack en Audio et importer les banques de son.
+* Paquets `python3 python3-mido python3-rtmidi librtmidi4`
+

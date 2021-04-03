@@ -51,5 +51,5 @@ On pourra utiliser une console virtuelle pour se forcer à n'utiliser que la lig
 
 L’environnement suivant sera mis à disposition pour cette session:
 
-* Linux Mint >= 20
+* Linux Mint >= 21
 * Paquets `bash coreutils procps sed wget openssh-client git`

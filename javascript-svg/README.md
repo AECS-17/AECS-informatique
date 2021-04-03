@@ -29,5 +29,5 @@ Dans cette session, nous verrons un aperçu de concepts de programmation à l’
 
 L’environnement suivant sera mis à disposition pour cette session:
 
-* Linux Mint >= 20
+* Linux Mint >= 21
 * Paquet `nodejs`
