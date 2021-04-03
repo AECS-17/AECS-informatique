@@ -19,13 +19,13 @@ Note : cette page est en cours de construction. Elle sera mise à jour
 au fur et à mesure selon les idées proposées par les bénévoles encadrants et
 les enfants de l’association.
 
-## Apprentissage et création (8ans+)
+## Apprentissage et création (à partir de 8 ans)
 
 * [Jeu d’apprentissage du piano et solfège](./apprentissage-piano-solfege)
 * [Création de bandes dessinées](./creation-bandes-dessinees)
 * [Programmation graphique](./programmation-graphique)
 
-## Développement logiciel (11ans+)
+## Développement logiciel (à partir de 11 ans)
 
 ### Tour d’horizon
 
