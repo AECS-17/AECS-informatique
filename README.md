@@ -24,6 +24,7 @@ les enfants de l’association.
 * [Jeu d’apprentissage du piano et solfège](./apprentissage-piano-solfege)
 * [Création de bandes dessinées](./creation-bandes-dessinees)
 * [Programmation graphique](./programmation-graphique)
+* ...
 
 ## Développement logiciel (à partir de 11 ans)
 
