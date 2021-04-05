@@ -25,7 +25,7 @@ Dans cette session nous verrons comment [utiliser la ligne de commande](https://
 * Commandes pour les processus: `kill`, `ps`, `bg`, `fg`, `Ctrl+C`, `Ctrl+Z`, `&`
 * Commandes pour le partage entre machines:
    - Téléchargement de page: `wget`
-   - Session à distance: `scp`, `ssh`
+   - Session à distance: `ip address`, `scp`, `ssh`
    - Logiciel de gestion de versions: `git` (clone, log, status, diff, etc)
 
 ## Déroulement possible de la session
@@ -43,7 +43,7 @@ On pourra utiliser une console virtuelle pour se forcer à n'utiliser que la lig
 4. Utiliser `sort`, `uniq`, `wc`, `sed` sur ces fichiers.
 5. Illustrer les commandes de processus avec le programme [count.sh](https://github.com/AECS-17/AECS-informatique/blob/master/ligne-de-commande/count.sh)`.
 6. Télécharger une page web avec `wget`.
-7. Envoyer la page sur une autre machine et se connecter à cette machine (`scp`, `ssh`).
+7. Envoyer la page sur une autre machine et se connecter à cette machine (`scp`, `ssh`). On pourra utiliser l'adresse IP locale retournée pas `ip address`.
 8. Cloner ce dépôt `git https://github.com/AECS-17/AECS-informatique.git` et
    présenter les commandes et concepts de base selon le temps disponible.
 
@@ -52,4 +52,4 @@ On pourra utiliser une console virtuelle pour se forcer à n'utiliser que la lig
 L’environnement suivant sera mis à disposition pour cette session:
 
 * Linux Mint >= 21
-* Paquets `bash coreutils procps sed wget openssh-client git`
+* Paquets `bash coreutils procps sed wget openssh-client git iproute2`
