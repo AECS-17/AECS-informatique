@@ -18,11 +18,25 @@ Dans cette session, nous verrons un aperçu de concepts de programmation à l’
 0. Introduction.
 1. Mettre en place des connections MIDI (clavier virtuel/physique, qjackctl, qsynth) et vérifier que l'on peut jouer au clavier.
 2. Étudier et exécuter [ports.py](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/ports.py): Afficher les ports MIDI disponibles et comparer avec qjackctl.
-3. Étudier et exécuter [listen.py](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/listen.py). Connecter une entrée MIDI et vérifier les messages reçus.
+3. Étudier et exécuter [listen.py](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/listen.py). Connecter une entrée MIDI et vérifier les messages reçus. Modifier le programme pour afficher séparément valeurs de `message.note`, `message.velocity`, `message.time` et `message.type`.
 4. Étudier et exécuter [play.py](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/play.py). Connecter une sortie MIDI pour jouer les notes entrées par l’utilisateur.
 5. Utilisez [MuseScore](https://fr.wikipedia.org/wiki/MuseScore) pour créer un fichier MIDI (e.g. à partir de `A-E-C-Si.musicxml`).
 6. Étudier et exécuter [read-and-play.py](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/read-and-play.py). Faire en sorte qu'il lise et joue la musique.
-7. Selon le temps disponible, écrire ses propres mini-programmes intéragissant entre l’entrée au clavier MIDI, les fichiers MIDI ou la sortie audio.
+7. Selon le temps disponible, écrire ses propres mini-programmes intéragissant entre l’entrée au clavier MIDI, les fichiers MIDI ou la sortie audio (voir quelques idées dans la section suivante).
+
+## Idées de mini-programmes
+
+1. Modifier `listen.py` pour écrire le mini-jeu suivant : à l'aide de [random.randint](https://docs.python.org/fr/3.8/library/random.html#random.randint) une note est tirée au sort et on quitte la boucle lorsque le joueur rentre la bonne note. A chaque message, le programme peut indiquer "plus aïgue/grave" ou si le joueur "chauffe/refroidit". On peut aussi compter le temps écoulé (à l'aide de [time.time](https://docs.python.org/fr/3/library/time.html#time.time)) ou le nombre de tentatives pour trouver la bonne note.
+
+2. Modifier `play.py` pour jouer une mélodie aléatoire avec un nombre de note, des durées et des hauteurs variables. Indication : La fonction [random.choice](https://docs.python.org/fr/3.8/library/random.html#random.choice) permet de tirer au sort un élément d'une liste.
+
+3. Modifier `read_and_play.py` pour [transposer](https://fr.wikipedia.org/wiki/Transposition_%28musique%29) une musique MIDI en augmentant ou diminuant par une constante les notes lues à partir du fichier. Indication : Utiliser `hasattr(message, "note")` pour vérifier si un message contient une note à transposer.
+
+4. Modifier `listen.py` pour afficher le nom de la note jouée (do, do#, ré, ...) et l'octave correspondante (1, 2, 3, 4, ...). Comparer avec VMPK (menu affichage, noms des notes). Indication : Les variables `midi_middle_C` et `note_names` de `read_and_play.py` peuvent être utiles, ainsi que les opérateurs `%` et `//` (reste et quotient de division euclidienne).
+
+5. Modifier `play.py` pour jouer des [accords](https://fr.wikipedia.org/wiki/Accord_(musique\)). Par exemple, le programme interprète C comme l'accord de trois note "do, mi, sol" (DO majeur).
+
+6. Modifier `read_and_play.py` pour compter chacune des notes (do, do#, ré, ...). Implémenter une heuristique pour trouver la [tonalité](https://fr.wikipedia.org/wiki/Tonalit%C3%A9) d'un morceau.
 
 ## Installation
 
