@@ -16,13 +16,19 @@ Dans cette session, nous verrons un aperçu de concepts de programmation à l’
 ## Déroulement possible de la session
 
 0. Introduction.
-1. Mettre en place des connections MIDI (clavier virtuel/physique, qjackctl, qsynth) et vérifier que l'on peut jouer au clavier.
-2. Étudier et exécuter [ports.py](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/ports.py): Afficher les ports MIDI disponibles et comparer avec qjackctl.
-3. Étudier et exécuter [listen.py](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/listen.py). Connecter une entrée MIDI et vérifier les messages reçus. Modifier le programme pour afficher séparément valeurs de `message.note`, `message.velocity`, `message.time` et `message.type`.
-4. Étudier et exécuter [play.py](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/play.py). Connecter une sortie MIDI pour jouer les notes entrées par l’utilisateur.
-5. Utilisez [MuseScore](https://fr.wikipedia.org/wiki/MuseScore) pour créer un fichier MIDI (e.g. à partir de `A-E-C-Si.musicxml`).
-6. Étudier et exécuter [read-and-play.py](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/read-and-play.py). Faire en sorte qu'il lise et joue la musique.
-7. Selon le temps disponible, écrire ses propres mini-programmes intéragissant entre l’entrée au clavier MIDI, les fichiers MIDI ou la sortie audio (voir quelques idées dans la section suivante).
+1. Ouvrez un terminal, cloner ce dépôt (si ce n'est pas déjà fait) et déplacer vous dans le dossier `python-midi`:
+   ```bash
+      git clone https://github.com/AECS-17/AECS-informatique.git
+      cd AECS-informatique/python-midi
+      ls
+   ```
+2. Mettre en place des connections MIDI (clavier virtuel/physique, qjackctl, qsynth) et vérifier que l'on peut jouer au clavier.
+3. Étudier et exécuter [ports.py](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/ports.py): Afficher les ports MIDI disponibles et comparer avec qjackctl.
+4. Étudier et exécuter [listen.py](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/listen.py). Connecter une entrée MIDI et vérifier les messages reçus. Modifier le programme pour afficher séparément valeurs de `message.note`, `message.velocity`, `message.time` et `message.type`.
+5. Étudier et exécuter [play.py](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/play.py). Connecter une sortie MIDI pour jouer les notes entrées par l’utilisateur.
+6. Utilisez [MuseScore](https://fr.wikipedia.org/wiki/MuseScore) pour créer un fichier MIDI (e.g. à partir de `A-E-C-Si.musicxml`).
+7. Étudier et exécuter [read-and-play.py](https://github.com/AECS-17/AECS-informatique/blob/master/python-midi/read-and-play.py). Faire en sorte qu'il lise et joue la musique.
+8. Selon le temps disponible, écrire ses propres mini-programmes intéragissant entre l’entrée au clavier MIDI, les fichiers MIDI ou la sortie audio (voir quelques idées dans la section suivante).
 
 ## Idées de mini-programmes
 
