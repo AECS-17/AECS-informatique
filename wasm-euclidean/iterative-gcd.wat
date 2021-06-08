@@ -4,7 +4,7 @@
 (func $gcd (export "main") (param $a i32) (param $b i32) (result i32)
     local.get $b
     if (result i32)
-        loop
+        loop $loop_start
             local.get $b
             local.get $a
             local.get $b
@@ -12,7 +12,7 @@
             local.set $b
             local.set $a
             local.get $b
-            br_if 0 ;; Go back to the beginning of the loop if b is nonzero.
+            br_if $loop_start ;; Go to start of the loop if b is nonzero.
         end
         local.get $a
     else
