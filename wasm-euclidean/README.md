@@ -9,9 +9,9 @@ Dans cette session, nous verrons comment utiliser le langage [WebAssembly](https
 
 ## Déroulement possible de la session
 
-0. Introduction.
-1. Étudier le programme [binary-operator.wat](https://github.com/AECS-17/AECS-informatique/blob/master/wasm-euclidean/binary-operator.wat)
-2. Générer un fichier binaire `binary-operator.wasm` en utilisant la commande `wat2wasm binary-operator.wat`
+0. Introduction. Concept de piles.
+1. Étudier le programme [binary-operator.wat](https://github.com/AECS-17/AECS-informatique/blob/master/wasm-euclidean/binary-operator.wat).
+2. Générer un fichier binaire `binary-operator.wasm` en utilisant la commande `wat2wasm binary-operator.wat`.
 3. Utiliser [run.js](https://github.com/AECS-17/AECS-informatique/blob/master/wasm-euclidean/run.js) pour charger et exécuter `binary-operator.wasm` avec la commande `nodejs run.js binary-operator.wasm 5 7` pour calculer 5 + 7.
 4. Essayer avec d'autres arguments et d'autres operateurs binaires e.g. `i32.sub` (addition), `i32.mul` (multiplication), `i32.div_s` (division euclidienne), `i32.rem_s` (reste de la division euclidienne).
 5. Désassembler le programme avec la commande `wasm2wat binary-operator.wasm` et comparer le résultat avec `binary-operator.wat`.

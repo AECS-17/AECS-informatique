@@ -8,7 +8,7 @@ if (process.argv.length < 3) {
     process.exit(1)
 }
 const wasm = process.argv[2]
-parameters = process.argv.slice(3);
+let parameters = process.argv.slice(3);
 console.log("WebAssembly file:", wasm);
 console.log("Parameters:", parameters.join(', '))
 
