@@ -24,7 +24,7 @@ Dans cette session, nous verrons un aperçu de concepts de programmation à l’
    le son est allumé ou éteint.
 6. Ajouter des commandes '+' et '-' pour augmenter ou diminuer le
    [volume](https://gstreamer.freedesktop.org/documentation/volume/index.html?gi-language=c#volume:volume)
-6. Ajouter des filtres vidéo dans `setup_pipeline()`, par exemple
+7. Ajouter des filtres vidéo dans `setup_pipeline()`, par exemple
    [mirror](https://gstreamer.freedesktop.org/documentation/geometrictransform/mirror.html?gi-language=c),
    [ASCII art](https://gstreamer.freedesktop.org/documentation/aasink/aatv.html?gi-language=c#aatv),
    [rotate](https://gstreamer.freedesktop.org/documentation/geometrictransform/rotate.html?gi-language=c#rotate), etc

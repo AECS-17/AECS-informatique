@@ -36,10 +36,11 @@ Au cours de ces sessions, nous donnerons un premier aperçu de différent [langa
 2. [Programmation Python et musique MIDI](./python-midi)
 3. [Programmation JavaScript et images SVG](./javascript-svg)
 4. [Langages Web (HTML, CSS, JavaScript) et « livre-jeu »](./web-livre-jeu)
-5. [Programmation C et flux multimedia](./c-multimedia)
-6. [Programmation C++ et interface graphique](./cpp-interface-graphique)
-7. [Programmation Java et application mobile](./java-application-mobile)
-8. [Programmation Rust et parallélisme](./rust-parallelisme)
+5. [Programmation Assembleur et algorithme d'Euclide](./wasm-euclidean)
+6. [Programmation C et flux multimedia](./c-multimedia)
+7. [Programmation C++ et interface graphique](./cpp-interface-graphique)
+8. [Programmation Java et application mobile](./java-application-mobile)
+9. [Programmation Rust et parallélisme](./rust-parallelisme)
 
 ### ...
 
